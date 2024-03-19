@@ -1,0 +1,1 @@
+const String PREF_IS_DARK_THEME = 'pref_is_dark_theme';
